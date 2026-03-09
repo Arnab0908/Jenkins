@@ -2,7 +2,7 @@ package com.git;
 
 import java.util.Scanner;
 
-public class Program2 {
+public class  Program2{
 	 static void explore(char[][] grid, int r, int c) {
 
 	        if (r < 0 || c < 0 || r >= grid.length || c >= grid[0].length)
